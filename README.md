@@ -169,6 +169,3 @@ While not the direct inspirations for Parm, here are some projects that helped s
 - [asdf](https://asdf-vm.com/)
 - [lazy.nvim](https://lazy.folke.io/).
 
-Similar projects:
-- [ubi](https://github.com/houseabsolute/ubi)
-- [eget](https://github.com/zyedidia/eget)
